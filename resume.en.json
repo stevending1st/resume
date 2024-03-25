@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "stevending1st",
+    "label": "Full stack programmer",
+    "url": "https://stevending1st.github.io/blog/",
+    "summary": "As a front-end engineer, I focus on enhancing web interactivity with technologies such as HTML5, CSS3, and JavaScript. Familiar with frameworks like React and Vue.js, I have contributed to multiple projects aimed at refining user experiences. I have also dabbled in back-end development with Node.js to gain a comprehensive understanding of full-stack development. In team settings, I actively learn and contribute to the open-source community, continuously improving my technical skills.",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "stevending1st",
+        "url": "https://twitter.com/stevending1st"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/stevending1st"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "idea2app",
+      "position": "Full-Stack Engineer",
+      "url": "https://idea2.app/",
+      "startDate": "2021-08",
+      "endDate": "now",
+      "highlights": [
+        "Responsible for the design and development of front-end applications, and the implementation of some pure back-end services.",
+        "Collaborated with the back-end team to build and maintain API services, develop SDKs, and discuss microservices and their authentication schemes.",
+        "Served as Project Owner (PO), coordinating with upstream and downstream partners, and supervising project progress.",
+        "Engaged in team management and product design, providing necessary technical support and solutions.",
+        "Authored and recorded online courses to share professional knowledge and skills with industry insiders and the broader community."
+      ]
+    },
+    {
+      "name": "Zhiming",
+      "position": "Junior Programmer",
+      "startDate": "2019-07",
+      "endDate": "2020-12",
+      "summary": "Participated in the development of financial-related systems, responsible for the implementation of functional modules and database migration tasks.",
+      "highlights": [
+        "Conducted front-end testing to ensure the correctness and stability of system functions."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "KAIYUANSHE",
+      "position": "Event participants, developers",
+      "url": "https://kaiyuanshe.cn/",
+      "startDate": "2022-03",
+      "endDate": "now"
+    }
+  ],
+  "awards": [
+    {
+      "title": "OpenDigger Open Source Software Ecological data Analysis and Mining platform Challenge third prize",
+      "date": "2023-11",
+      "awarder": "The OpenAtom Foundation"
+    },
+    {
+      "title": "KAIYUANSHE 2023 Open Source Star",
+      "date": "2023-10",
+      "awarder": "KAIYUANSHE"
+    },
+    {
+      "title": "COSCon Star of the Seventh China Open Source Conference",
+      "date": "2022-10",
+      "awarder": "KAIYUANSHE"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Senior",
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS",
+        "Javascript / Typescript",
+        "React / Next",
+        "Mobx"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": ["Node.js"]
+    }
+  ]
+}
