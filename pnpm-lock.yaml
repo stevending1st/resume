@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@config-resume/cli':
-    specifier: 0.0.1-alpha.4
-    version: 0.0.1-alpha.4
+    specifier: 0.0.1-alpha.6
+    version: 0.0.1-alpha.6
 
 packages:
 
@@ -307,13 +307,13 @@ packages:
       to-fast-properties: 2.0.0
     dev: true
 
-  /@config-resume/cli@0.0.1-alpha.4:
-    resolution: {integrity: sha512-0agUmnc9jsdAl2GCb4wCMK9ioZqlkckdvPA6z193WXKyMktcIg/TMJwxWvs0tnhsr7e9VsafG81eyt/wFrN21A==}
+  /@config-resume/cli@0.0.1-alpha.6:
+    resolution: {integrity: sha512-5ATguCRemVplLdo9h5z1c/QB7jtazUf3hBR/KcQWH4+vzHRgNTUQ9uMsX0NzM6AFlhtpp008ug8Gz0SiReE3NQ==}
     hasBin: true
     dependencies:
       '@antfu/ni': 0.21.12
-      '@config-resume/i18n': 0.0.1-alpha.4
-      '@config-resume/types': 0.0.1-alpha.4
+      '@config-resume/i18n': 0.0.1-alpha.6
+      '@config-resume/types': 0.0.1-alpha.6
       astro: 4.5.9
       chokidar: 3.6.0
       execa: 8.0.1
@@ -333,12 +333,12 @@ packages:
       - typescript
     dev: true
 
-  /@config-resume/i18n@0.0.1-alpha.4:
-    resolution: {integrity: sha512-HYtkPWj2FK2ZUbQ6r0fijusXGY67SwGrz5M+xbbzCe9L9Z2Oouy20ge92UZK5T3+dOy5wbzXUfXx0tqBi0Ebyw==}
+  /@config-resume/i18n@0.0.1-alpha.6:
+    resolution: {integrity: sha512-aZJN1CIdwEiKvq7av6FvAIgiv2GFnlTBUflTcYwgcc0ZUbI55Mbcvpq0qr+cTj50yYnzhgJ3pb53UEmnJH/zYQ==}
     dev: true
 
-  /@config-resume/types@0.0.1-alpha.4:
-    resolution: {integrity: sha512-gnXrkxyc7lWOqpTv+LCyco0k68wQo09BRZA3d7OcDDlFYV1TzlkYwG7u7FSdHH1bvTmM5BXIjYAAvf4BTImbWA==}
+  /@config-resume/types@0.0.1-alpha.6:
+    resolution: {integrity: sha512-EB+Rw4M85TODnPybVSOTWM0ZVdiHLAJIqgSz5UwO0u2DTVlKaMibpf1krXtM99bSSNopVPLIKtOiTNNVjGr2Rg==}
     dev: true
 
   /@esbuild/aix-ppc64@0.19.12:
@@ -1314,7 +1314,7 @@ packages:
       normalize-path: 3.0.0
       readdirp: 3.6.0
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /chownr@1.1.4:
@@ -1749,14 +1749,6 @@ packages:
       jsonfile: 6.1.0
       universalify: 2.0.1
     dev: true
-
-  /fsevents@2.3.2:
-    resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==}
-    engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
-    os: [darwin]
-    requiresBuild: true
-    dev: true
-    optional: true
 
   /fsevents@2.3.3:
     resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
